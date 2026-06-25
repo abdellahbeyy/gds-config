@@ -6,4 +6,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/airline_core_db
     username: root
-    password: $7090Ashok
+    password: Root123
